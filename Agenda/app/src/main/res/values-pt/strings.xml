@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="action_create">Criar</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_telephone">Telephone</string>
+    <string name="hint_email">Email</string>
+    <string name="lbl_socialNetworking">Social Networking</string>
+    <string name="hint_cep">CEP</string>
+    <string name="textButton_search">Search</string>
+    <string name="hint_zipCode">ZipCode</string>
+    <string name="hint_type">Type</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_neighborhood">Neighborhood</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="title_done">Done</string>
+    <string name="text_id">ID</string>
+    <string name="text_name">Name</string>
+    <string name="msg_save_sucess">Contact saved!</string>
+    <string name="msg_add_email">Email add!</string>
+    <string name="msg_add_socialNet">SocialNetworking add!</string>
+    <string name="lbl_address">Address</string>
+    <string name="msg_loading_message">Loading contacts</string>
+    <string name="msg_loaded">Contacts Loaded</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_delete">Delete</string>
+    <string name="lbl_confirm">Confirm</string>
+    <string name="msg_confirm_delete">Confirm delete?</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="msg_delete_sucessful">Contact deleted</string>
+    <string name="lbl_no">No</string>
+    <string name="text_filter">Filter:</string>
+
+</resources>

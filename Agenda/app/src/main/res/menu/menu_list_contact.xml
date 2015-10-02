@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ListContactActivity">
+
+    <item
+        android:id="@+id/create_contact"
+        android:icon="@drawable/ic_action_content_add_box"
+        android:title="@string/action_create"
+        app:showAsAction="always" />
+
+</menu>
